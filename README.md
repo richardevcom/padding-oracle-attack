@@ -7,8 +7,8 @@ Under `__main__` function - change `post` and `url` values according to yours an
 python padding-oracle-attack.py
 ```
 
-# ⚠ Attention ⚠
-It will take some time, so go make some coffee and wait.
+# Attention
+⚠ **It will take some time, so go make some coffee and wait.**⚠<br/>
 Also check out Brian Holyfield's ready to use solution called [PadBuster](https://github.com/AonCyberLabs/PadBuster).
 
 # Credit
